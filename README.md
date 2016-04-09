@@ -1,4 +1,2 @@
 # REPO
-Demek
-
-MENUVANO ZATO STO TAKOZVANI
+Edituvano od GIT so vim
