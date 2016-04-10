@@ -7,6 +7,8 @@ MENUVANO ZATO STO TAKOZVANI
 
 Edituvano so checkout i ime na branchot
 
+zadnja vezba komplet:x
+
 proba za zakacuvanje na master;
 =======
 vtoro edituvanje;
